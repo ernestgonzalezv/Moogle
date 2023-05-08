@@ -1,0 +1,12 @@
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\ciencias de la computacion\moogle-main (3)\moogle-main\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
